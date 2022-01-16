@@ -1,4 +1,4 @@
-# colors
+# The Colors Emotes
 
 <p float="left">
   <img src="https://github.com/colorsintern/colors/blob/main/112w/boner.png" width="100" />
